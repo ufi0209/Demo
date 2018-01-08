@@ -1,0 +1,9 @@
+c:\users\ufi0209\documents\visual studio 2015\Projects\alpine_win_forms_csharp\alpine_win_forms_csharp\bin\Debug\alpine_win_forms_csharp.exe.config
+c:\users\ufi0209\documents\visual studio 2015\Projects\alpine_win_forms_csharp\alpine_win_forms_csharp\bin\Debug\alpine_win_forms_csharp.exe
+c:\users\ufi0209\documents\visual studio 2015\Projects\alpine_win_forms_csharp\alpine_win_forms_csharp\bin\Debug\alpine_win_forms_csharp.pdb
+c:\users\ufi0209\documents\visual studio 2015\Projects\alpine_win_forms_csharp\alpine_win_forms_csharp\obj\Debug\alpine_win_forms_csharp.csprojResolveAssemblyReference.cache
+c:\users\ufi0209\documents\visual studio 2015\Projects\alpine_win_forms_csharp\alpine_win_forms_csharp\obj\Debug\alpine_win_forms_csharp.Form1.resources
+c:\users\ufi0209\documents\visual studio 2015\Projects\alpine_win_forms_csharp\alpine_win_forms_csharp\obj\Debug\alpine_win_forms_csharp.Properties.Resources.resources
+c:\users\ufi0209\documents\visual studio 2015\Projects\alpine_win_forms_csharp\alpine_win_forms_csharp\obj\Debug\alpine_win_forms_csharp.csproj.GenerateResource.Cache
+c:\users\ufi0209\documents\visual studio 2015\Projects\alpine_win_forms_csharp\alpine_win_forms_csharp\obj\Debug\alpine_win_forms_csharp.exe
+c:\users\ufi0209\documents\visual studio 2015\Projects\alpine_win_forms_csharp\alpine_win_forms_csharp\obj\Debug\alpine_win_forms_csharp.pdb
